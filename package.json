@@ -1,6 +1,6 @@
 {
   "name": "invariance",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Utils for immutable data structures Records & Tuples",
   "main": "lib/index.js",
   "unpkg": "dist/index.umd.js",
