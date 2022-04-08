@@ -1,6 +1,6 @@
-// @ts-nocheck
-import { jsdocTests } from 'jsdoc-tests';
+// @ts-ignore
 import { Record, Tuple } from "@bloomberg/record-tuple-polyfill";
+import { jsdocTests } from 'jsdoc-tests';
 
 globalThis.Tuple = Tuple;
 globalThis.Record = Record;
