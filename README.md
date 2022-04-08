@@ -10,6 +10,11 @@ Utils for immutable data structures Records & Tuples
 - `toImmutable()`
 - `JSON.parseImmutable()`
 
+## Interfaces
+
+- `Record`
+- `Tuple`
+
 ## TODO
 
 - [ ] Add Types from [Spec](https://tc39.es/proposal-record-tuple)
