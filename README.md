@@ -15,6 +15,7 @@ Deeply convert regular objects, arrays and JSON objects to Records or Tuples.
 
 ## Interfaces
 
+- `DeepReadonly<T>`
 - `Record`
 - `Tuple`
 
